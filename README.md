@@ -1,4 +1,7 @@
 # Tareas
+Hola amigos, Este proyecto es una aplicacion Web de Tareas, puedes poner todas tus actividades y marcarlas cuando ya estén realizadas.
+En este proyecto utilizo Bootstrap la version 4.5, utilizo iconos de la librería fontawesome. estoy usando 2 componentes uno para el Navbar y otro para la parte de la Tarea como tal. Tambien tengo un modelo 
+que me permite utilizar la tarea en sí.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
