@@ -3,6 +3,8 @@ Hola amigos, Este proyecto es una aplicacion Web de Tareas, puedes poner todas t
 En este proyecto utilizo Bootstrap la version 4.5, utilizo iconos de la librería fontawesome. estoy usando 2 componentes uno para el Navbar y otro para la parte de la Tarea como tal. Tambien tengo un modelo 
 que me permite utilizar la tarea en sí.
 
+Puedes ver este proyecto en mi Netlyfi: https://sebastianvergara-aplicacion-tareas.netlify.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
